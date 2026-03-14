@@ -1,8 +1,8 @@
 #  Gustavo de Oliveria
 
-**`Desenvolvedor Python`**
+**`Calouro de Analise de Desenvolvimento de Software`**
 
-Me chamo Gustavo de Oliveira, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio técnico em Desenvolvimento de Sistemas no Colégio Estadual Ulysses Guimarães. Atualmente, estou procurando me aperfeiçoar cada vez mais em Python.
+Me chamo Gustavo de Oliveira, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio técnico em Desenvolvimento de Sistemas no Colégio Estadual Ulysses Guimarães. Atualmente, estou procurando me aperfeiçoar cada vez mais em tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
