@@ -1,46 +1,20 @@
-<h1 align="center">Olá, eu sou Gustavo de Oliveira 👋</h1>
+<h1 align="center">Gustavo de Oliveira</h1>
 
 <p align="center">
-  <b>Desenvolvedor Back-end em formação</b><br>
-  Estudante de Análise e Desenvolvimento de Sistemas • Python • Java • Game Development
+Software Developer • Análise e Desenvolvimento de Sistemas • Game Development
 </p>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 🎮 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, desenvolvimento de software e criação de jogos.
+Olá! Sou Gustavo de Oliveira, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
 
-Atualmente concentro meus estudos em **Python, Java, Engenharia de Software e Desenvolvimento Back-end**, buscando construir projetos completos, organizados e bem documentados.
+Desde que descobri a programação, sempre me fascinou a possibilidade de transformar ideias em soluções reais. Seja desenvolvendo uma API, um sistema para empresas ou um jogo completo, o que mais me motiva é aprender continuamente e construir projetos que me desafiem.
 
-Meu objetivo é evoluir constantemente como desenvolvedor, aplicando boas práticas de programação, arquitetura de software e versionamento com Git.
+Meu sonho é atuar no desenvolvimento de software e jogos, contribuindo para produtos que impactem milhares de pessoas.
 
----
-
-# 🚀 Tecnologias
-
-### Linguagens
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
-
----
-
-### Ferramentas
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
-</p>
+Atualmente concentro meus estudos em desenvolvimento Back-end, Engenharia de Software e Game Development, documentando toda minha evolução através dos projetos publicados neste GitHub.
 
 ---
 
@@ -48,79 +22,129 @@ Meu objetivo é evoluir constantemente como desenvolvedor, aplicando boas práti
 
 - ☕ Java
 - 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
 - 🏗 Engenharia de Software
-- ⚙ Estrutura de Computadores
-- 🌐 Desenvolvimento Back-end
-- 🎮 Game Design
-- 🕹 Game Engine
+- 💻 Estrutura de Computadores
+- 🎮 GameMaker
 - 🇺🇸 Inglês
+
+---
+
+# 🚀 Tecnologias
+
+## Atualmente aprendendo
+
+<p align="center">
+
+(...ícones...)
+
+</p>
+
+---
+
+# 🛠 Ferramentas
+
+VS Code
+
+Git
+
+GitHub
+
+Figma
+
+Notion
+
+Trello
+
+GameMaker
 
 ---
 
 # 🎯 Objetivos
 
-- Desenvolver aplicações completas utilizando Python e Java
-- Criar APIs REST escaláveis
-- Construir um portfólio profissional no GitHub
-- Publicar projetos com documentação, testes e boas práticas
-- Desenvolver um jogo completo utilizando uma Game Engine
-- Conquistar uma oportunidade como Desenvolvedor Back-end
+✔ Conseguir meu primeiro estágio como Desenvolvedor
+
+✔ Evoluir constantemente como Programador
+
+✔ Construir aplicações completas utilizando Java e Python
+
+✔ Desenvolver APIs REST profissionais
+
+✔ Criar um jogo completo
+
+✔ Construir um portfólio sólido
 
 ---
 
-# 📂 Projetos em desenvolvimento
-
-| Projeto | Tecnologias | Status |
-|---------|-------------|--------|
-| Finance Manager | Python | 🚧 |
-| Inventory API | FastAPI | 🚧 |
-| Password Vault | Python | 🚧 |
-| Study Planner | Java | 🚧 |
-| Pixel RPG | Game Engine | 🚧 |
-
----
-
-# 📈 Roadmap de Estudos
+# 📂 Roadmap
 
 ```text
-Programação
-├── Lógica de Programação
+📦 Software Development
+
 ├── Java
 ├── Python
-├── Engenharia de Software
-└── APIs REST
+├── Backend
+├── APIs
+├── Banco de Dados
+└── Engenharia de Software
 
-Game Development
+🎮 Game Development
+
 ├── Game Design
-├── Game Engine
-└── Desenvolvimento de Jogos
+├── GameMaker
+├── Pixel Art
+├── Gameplay
+└── RPG
 
-Idiomas
-└── Inglês
+📖 Idiomas
+
+├── Português
+├── Inglês
+└── Espanhol
 ```
+
+---
+
+# 🚧 Projetos em desenvolvimento
+
+| Projeto | Área | Status |
+|---------|------|--------|
+| 💰 Finance Manager | Python | 🚧 |
+| 🏦 Banking API | Backend | 🚧 |
+| 🛒 E-commerce | Full Stack | 🚧 |
+| 🤖 Discord Bot | Python | 🚧 |
+| 🎮 Pixel RPG | Game Development | 🚧 |
+
+---
+
+# 📈 Meu foco
+
+Meu GitHub não foi criado apenas para armazenar códigos.
+
+Meu objetivo é documentar toda a minha evolução como desenvolvedor através de projetos cada vez mais completos, utilizando boas práticas de programação, documentação, Git e Engenharia de Software.
+
+Cada repositório representa uma etapa da minha jornada.
 
 ---
 
 # 📊 Estatísticas
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent"/>
-
-</p>
+(stats)
 
 ---
 
 # 📫 Contato
 
-📧 Email: **seuemail@email.com**
+💼 LinkedIn
 
-💼 LinkedIn: **https://linkedin.com/in/seuperfil**
+linkedin.com/in/devgustavooliver
 
----
+🎮 Discord
 
-<p align="center">
-⭐ Obrigado por visitar meu perfil!
-</p>
+oliver_code_dev
+
+GitHub
+
+github.com/Oliver-code-dev
