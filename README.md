@@ -1,150 +1,91 @@
-<h1 align="center">Gustavo de Oliveira</h1>
+# Gustavo de Oliveira
 
-<p align="center">
-Software Developer • Análise e Desenvolvimento de Sistemas • Game Development
-</p>
+**Estudante de Análise e Desenvolvimento de Sistemas e Engenharia de Software**
 
----
+Olá! Me chamo Gustavo, tenho 19 anos e sou do Paraná.
 
-# 🎮 Sobre mim
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**. Escolhi seguir esse caminho porque gosto da ideia de transformar problemas em soluções e criar coisas novas através da programação.
 
-Olá! Sou Gustavo de Oliveira, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
+Tenho interesse principalmente em desenvolvimento Back-end, Inteligência Artificial e Desenvolvimento de Jogos. Desenvolver um jogo sempre foi um dos meus maiores objetivos, mas também quero participar da criação de sistemas e aplicações que possam ser utilizados por milhares de pessoas.
 
-Desde que descobri a programação, sempre me fascinou a possibilidade de transformar ideias em soluções reais. Seja desenvolvendo uma API, um sistema para empresas ou um jogo completo, o que mais me motiva é aprender continuamente e construir projetos que me desafiem.
-
-Meu sonho é atuar no desenvolvimento de software e jogos, contribuindo para produtos que impactem milhares de pessoas.
-
-Atualmente concentro meus estudos em desenvolvimento Back-end, Engenharia de Software e Game Development, documentando toda minha evolução através dos projetos publicados neste GitHub.
+Este GitHub funciona como um registro da minha evolução. Aqui publico projetos desenvolvidos durante meus estudos, experiências com novas tecnologias e aplicações criadas para colocar em prática o que estou aprendendo. A ideia é que, com o tempo, este perfil mostre claramente minha evolução como desenvolvedor.
 
 ---
 
-# 📚 Atualmente estudando
+## Atualmente estudando
 
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🏗 Engenharia de Software
-- 💻 Estrutura de Computadores
-- 🎮 GameMaker
-- 🇺🇸 Inglês
-
----
-
-# 🚀 Tecnologias
-
-## Atualmente aprendendo
-
-<p align="center">
-
-(...ícones...)
-
-</p>
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Engenharia de Software
+- Banco de Dados
+- GameMaker
+- Inglês
 
 ---
 
-# 🛠 Ferramentas
+## Linguagens
 
-VS Code
+<div>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</div>
 
-Git
+## Ferramentas
 
-GitHub
+<div>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+</div>
 
-Figma
-
-Notion
-
-Trello
-
-GameMaker
-
----
-
-# 🎯 Objetivos
-
-✔ Conseguir meu primeiro estágio como Desenvolvedor
-
-✔ Evoluir constantemente como Programador
-
-✔ Construir aplicações completas utilizando Java e Python
-
-✔ Desenvolver APIs REST profissionais
-
-✔ Criar um jogo completo
-
-✔ Construir um portfólio sólido
+Também utilizo Notion, Trello e atualmente estou aprendendo GameMaker.
 
 ---
 
-# 📂 Roadmap
+## Objetivos
 
-```text
-📦 Software Development
-
-├── Java
-├── Python
-├── Backend
-├── APIs
-├── Banco de Dados
-└── Engenharia de Software
-
-🎮 Game Development
-
-├── Game Design
-├── GameMaker
-├── Pixel Art
-├── Gameplay
-└── RPG
-
-📖 Idiomas
-
-├── Português
-├── Inglês
-└── Espanhol
-```
+- Conseguir minha primeira oportunidade como Desenvolvedor.
+- Construir um portfólio sólido.
+- Desenvolver aplicações utilizando Java e Python.
+- Criar um jogo completo.
+- Evoluir constantemente como profissional.
 
 ---
 
-# 🚧 Projetos em desenvolvimento
+## Projetos
 
-| Projeto | Área | Status |
-|---------|------|--------|
-| 💰 Finance Manager | Python | 🚧 |
-| 🏦 Banking API | Backend | 🚧 |
-| 🛒 E-commerce | Full Stack | 🚧 |
-| 🤖 Discord Bot | Python | 🚧 |
-| 🎮 Pixel RPG | Game Development | 🚧 |
+Os projetos publicados aqui representam meu processo de aprendizagem. Conforme avanço nos estudos, pretendo desenvolver aplicações cada vez mais completas, organizadas e documentadas.
 
----
+Projetos planejados:
 
-# 📈 Meu foco
-
-Meu GitHub não foi criado apenas para armazenar códigos.
-
-Meu objetivo é documentar toda a minha evolução como desenvolvedor através de projetos cada vez mais completos, utilizando boas práticas de programação, documentação, Git e Engenharia de Software.
-
-Cada repositório representa uma etapa da minha jornada.
+- Sistema Financeiro
+- API Bancária
+- Bot para Discord
+- Loja Virtual
+- RPG
 
 ---
 
-# 📊 Estatísticas
+## Idiomas
 
-(stats)
+- Português — Nativo
+- Inglês — Em aprendizado
+- Espanhol — Básico
 
 ---
 
-# 📫 Contato
+## Contato
 
-💼 LinkedIn
+LinkedIn:
+https://linkedin.com/in/devgustavooliver
 
-linkedin.com/in/devgustavooliver
-
-🎮 Discord
-
+Discord:
 oliver_code_dev
-
-GitHub
-
-github.com/Oliver-code-dev
