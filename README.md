@@ -76,10 +76,12 @@ Levo muito a sério a forma como meu código é escrito: procuro manter a organi
 
 ### Visão Geral do GitHub
 
+<!-- Oculto temporariamente até eu subir meus primeiros repositórios públicos
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oliver-code-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=999999&icon_color=ffffff" height="160" alt="Estatísticas do GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-code-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=999999" height="160" alt="Linguagens mais usadas">
 </div>
+-->
 
 ---
 
